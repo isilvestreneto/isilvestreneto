@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&vCenter=true&multiline=true&height=400&lines=Hello+World!;I'm+Silvestre;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&vCenter=true&multiline=true&height=200&lines=Hello+World!;I'm+Silvestre;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 From salesman to cook, I've done a lot of professional things in my life. Above all, technology has always been present since I was four years old, but now I want to make it my way of conquering the world.
 I've been on this journey of studies since the end of 2020, but assiduously focused since March 2022. What brought me back to this was a hiring program from the company Capgemini, focused on WEB Development with Angular (front-end) and Java (backend).
