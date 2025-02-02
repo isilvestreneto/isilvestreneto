@@ -4,7 +4,7 @@
 - 🔵 I’m currently working on Capgemini as Full-Stack Developer | Systems Analyst
 - ☕ I am a Java postgraduate student at [UTFPR](https://www.utfpr.edu.br/)
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
