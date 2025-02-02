@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A full stack software developer</h3>
 
-- 🔭 I’m currently working on [Capgemini](Bradesco Onboarding)
+- 🔵 I’m currently working on Capgemini as Full-Stack Developer | Systems Analyst
+- ☕ I am a Java postgraduate student at [UTFPR](https://www.utfpr.edu.br/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
