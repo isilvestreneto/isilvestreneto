@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="30" width="40" /></a>
+<a href="https://dev.to/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" height="28" /></a>
+<a href="https://linkedin.com/in/isilvestreneto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="28" /></a>
+<a href="https://www.hackerrank.com/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="hackerrank" height="28" /></a>
+<a href="https://www.leetcode.com/isilvestreneto" target="blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="leetcode" height="28" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -27,7 +27,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="css3" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css/1572B6" alt="css3" width="40" height="40"/></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass/CC6699" alt="sass" width="40" height="40"/></a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <h4 align="left">Cloud, DevOps & Infra</h4>
 <p align="left">
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="azure" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="28"/></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redhatopenshift/EE0000" alt="openshift" width="40" height="40"/></a>
 <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="argocd" width="40" height="40"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="github actions" width="40" height="40"/></a>
@@ -61,7 +61,7 @@
 
 <h4 align="left">Databases</h4>
 <p align="left">
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/oracle/F80000" alt="oracle" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="oracle" height="28"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="mongodb" width="40" height="40"/></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mariadb/003545" alt="mariadb" width="40" height="40"/></a>
